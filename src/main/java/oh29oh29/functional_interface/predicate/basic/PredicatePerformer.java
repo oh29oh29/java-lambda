@@ -7,7 +7,7 @@ public class PredicatePerformer {
 
     public static <T> List<T> filter(List<T> list, Predicate<T> p) {
         final List<T> result = new ArrayList<>();
-        for (T t: list) {
+        for (T t : list) {
             if (p.test(t)) {
                 result.add(t);
             }
