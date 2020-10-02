@@ -1,7 +1,7 @@
 ## Functional interface
 
-- abstract method 가 오직 하나인 interface.
-- lambda expression 으로 functional interface 의 abstract method 구현을 직접 전달할 수 있으므로 전체 표현식을 functional interface 의 instance 로 취급할 수 있음.
+> abstract method 가 오직 하나인 interface.  
+> lambda expression 으로 functional interface 의 abstract method 구현을 직접 전달할 수 있으므로 전체 표현식을 functional interface 의 instance 로 취급할 수 있음.
 
 
 #### function descriptor
